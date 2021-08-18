@@ -194,7 +194,7 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/utils-inherited-property-descriptors/main/LICENSE
 
-[@stdlib/utils/property-descriptors]: https://github.com/stdlib-js/stdlib
+[@stdlib/utils/property-descriptors]: https://github.com/stdlib-js/utils-property-descriptors
 
 </section>
 
