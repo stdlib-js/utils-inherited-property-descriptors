@@ -139,6 +139,16 @@ console.log( desc );
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -155,11 +165,6 @@ For more information on the project, filing bug reports and feature requests, an
 [![Chat][chat-image]][chat-url]
 
 ---
-
-## License
-
-See [LICENSE][stdlib-license].
-
 
 ## Copyright
 
@@ -191,8 +196,6 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib]: https://github.com/stdlib-js/stdlib
 
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
-
-[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/utils-inherited-property-descriptors/main/LICENSE
 
 [@stdlib/utils/property-descriptors]: https://github.com/stdlib-js/utils-property-descriptors
 
