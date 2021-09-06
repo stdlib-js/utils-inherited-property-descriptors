@@ -143,6 +143,16 @@ console.log( desc );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   [`@stdlib/utils/property-descriptors`][@stdlib/utils/property-descriptors]: return an object's own property descriptors.
+-   [`@stdlib/utils/property-descriptors-in`][@stdlib/utils/property-descriptors-in]: return an object's own and inherited property descriptors.
+-   [`@stdlib/utils/inherited-keys`][@stdlib/utils/inherited-keys]: return an array of an object's inherited enumerable property names.
+-   [`@stdlib/utils/inherited-property-names`][@stdlib/utils/inherited-property-names]: return an array of an object's inherited enumerable and non-enumerable property names.
+-   [`@stdlib/utils/inherited-property-symbols`][@stdlib/utils/inherited-property-symbols]: return an array of an object's inherited symbol properties.
+
 </section>
 
 <!-- /.related -->
@@ -198,6 +208,20 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
 
 [@stdlib/utils/property-descriptors]: https://github.com/stdlib-js/utils-property-descriptors
+
+<!-- <related-links> -->
+
+[@stdlib/utils/property-descriptors]: https://github.com/stdlib-js/utils-property-descriptors
+
+[@stdlib/utils/property-descriptors-in]: https://github.com/stdlib-js/utils-property-descriptors-in
+
+[@stdlib/utils/inherited-keys]: https://github.com/stdlib-js/utils-inherited-keys
+
+[@stdlib/utils/inherited-property-names]: https://github.com/stdlib-js/utils-inherited-property-names
+
+[@stdlib/utils/inherited-property-symbols]: https://github.com/stdlib-js/utils-inherited-property-symbols
+
+<!-- </related-links> -->
 
 </section>
 
