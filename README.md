@@ -20,7 +20,7 @@ limitations under the License.
 
 # inheritedPropertyDescriptors
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Return an object's inherited [property descriptors][@stdlib/utils/property-descriptors].
 
@@ -147,11 +147,11 @@ console.log( desc );
 
 ## See Also
 
--   [`@stdlib/utils/property-descriptors`][@stdlib/utils/property-descriptors]: return an object's own property descriptors.
--   [`@stdlib/utils/property-descriptors-in`][@stdlib/utils/property-descriptors-in]: return an object's own and inherited property descriptors.
--   [`@stdlib/utils/inherited-keys`][@stdlib/utils/inherited-keys]: return an array of an object's inherited enumerable property names.
--   [`@stdlib/utils/inherited-property-names`][@stdlib/utils/inherited-property-names]: return an array of an object's inherited enumerable and non-enumerable property names.
--   [`@stdlib/utils/inherited-property-symbols`][@stdlib/utils/inherited-property-symbols]: return an array of an object's inherited symbol properties.
+-   <span class="package-name">[`@stdlib/utils/property-descriptors`][@stdlib/utils/property-descriptors]</span><span class="delimiter">: </span><span class="description">return an object's own property descriptors.</span>
+-   <span class="package-name">[`@stdlib/utils/property-descriptors-in`][@stdlib/utils/property-descriptors-in]</span><span class="delimiter">: </span><span class="description">return an object's own and inherited property descriptors.</span>
+-   <span class="package-name">[`@stdlib/utils/inherited-keys`][@stdlib/utils/inherited-keys]</span><span class="delimiter">: </span><span class="description">return an array of an object's inherited enumerable property names.</span>
+-   <span class="package-name">[`@stdlib/utils/inherited-property-names`][@stdlib/utils/inherited-property-names]</span><span class="delimiter">: </span><span class="description">return an array of an object's inherited enumerable and non-enumerable property names.</span>
+-   <span class="package-name">[`@stdlib/utils/inherited-property-symbols`][@stdlib/utils/inherited-property-symbols]</span><span class="delimiter">: </span><span class="description">return an array of an object's inherited symbol properties.</span>
 
 </section>
 
@@ -176,6 +176,11 @@ For more information on the project, filing bug reports and feature requests, an
 
 ---
 
+## License
+
+See [LICENSE][stdlib-license].
+
+
 ## Copyright
 
 Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
@@ -197,8 +202,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/utils-inherited-property-descriptors/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/utils-inherited-property-descriptors?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/utils-inherited-property-descriptors.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/utils-inherited-property-descriptors/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
@@ -206,6 +215,8 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib]: https://github.com/stdlib-js/stdlib
 
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
+
+[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/utils-inherited-property-descriptors/main/LICENSE
 
 [@stdlib/utils/property-descriptors]: https://github.com/stdlib-js/utils-property-descriptors
 
