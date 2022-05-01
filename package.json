@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-inherited-property-descriptors",
-  "version": "0.0.0",
+  "version": "0.0.7",
   "description": "Return an object's inherited property descriptors.",
   "license": "Apache-2.0",
   "author": {
