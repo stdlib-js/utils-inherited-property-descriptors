@@ -44,6 +44,11 @@ limitations under the License.
 <!-- eslint-disable id-length -->
 
 ```javascript
+import inheritedPropertyDescriptors from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-inherited-property-descriptors@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/utils-inherited-property-descriptors/tags). For example,
+
+```javascript
 import inheritedPropertyDescriptors from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-inherited-property-descriptors@v0.1.0-deno/mod.js';
 ```
 
@@ -113,7 +118,7 @@ var desc = inheritedPropertyDescriptors( f, 1 );
 
 ```javascript
 import defineProperty from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-define-property@deno/mod.js';
-import inheritedPropertyDescriptors from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-inherited-property-descriptors@v0.1.0-deno/mod.js';
+import inheritedPropertyDescriptors from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-inherited-property-descriptors@deno/mod.js';
 
 function Foo() {
     this.beep = 'boop';
