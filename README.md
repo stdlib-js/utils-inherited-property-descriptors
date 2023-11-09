@@ -67,6 +67,8 @@ var inheritedPropertyDescriptors = require( '@stdlib/utils-inherited-property-de
 
 Returns an object's inherited [property descriptors][@stdlib/utils/property-descriptors].
 
+<!-- eslint-disable id-length -->
+
 ```javascript
 function Foo() {
     this.a = 'b';
@@ -81,6 +83,8 @@ var desc = inheritedPropertyDescriptors( f );
 ```
 
 By default, the function walks an object's entire prototype chain. To limit the inheritance level, provide a `level` argument.
+
+<!-- eslint-disable id-length -->
 
 ```javascript
 var inherit = require( '@stdlib/utils-inherit' );
@@ -248,8 +252,6 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [@stdlib/utils/property-descriptors]: https://github.com/stdlib-js/utils-property-descriptors
 
 <!-- <related-links> -->
-
-[@stdlib/utils/property-descriptors]: https://github.com/stdlib-js/utils-property-descriptors
 
 [@stdlib/utils/property-descriptors-in]: https://github.com/stdlib-js/utils-property-descriptors-in
 
